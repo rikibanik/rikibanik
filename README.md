@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riki</h1>
 <h3 align="center">A passionate learner, who loves coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikibanik&label=Profile%20views&color=0e75b6&style=flat" alt="rikibanik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/banikriki3" target="blank"><img src="https://img.shields.io/twitter/follow/banikriki3?logo=twitter&style=for-the-badge" alt="banikriki3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
