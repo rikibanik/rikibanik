@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Riki</h1>
 <h3 align="center">A passionate learner, who loves coding.</h3>
 
+<p align="left" style="width: 50%; text-wrap: wrap;">
+    👋 Hello there! I'm Riki, an IT enthusiast currently pursuing my B.Tech in Information Technology at Ajiv Gandhi Institute of Petroleum Technology (An Institution of National Importance along the lines of the IITs).
 
+    🚀 I'm passionate about contributing to the developer community and sharing my knowledge. My current focus is on web development, where I've honed my skills and built exciting projects.
+    
+    🌱 In my journey, I'm eager to explore the realms of Machine Learning (ML) and Data Structures and Algorithms (DSA), with a thirst for learning and growing.  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
