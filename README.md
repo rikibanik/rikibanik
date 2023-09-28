@@ -13,9 +13,7 @@
       Now, I'm venturing into the exciting worlds of Machine Learning (ML) and Data Structures and Algorithms (DSA), always driven by a thirst for learning and personal growth. 🌱
     </p>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://your-image-url.com/your-image.jpg](https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?w=740&t=st=1695911607~exp=1695912207~hmac=6b71f8a5f6632228484f8746a41f321d827771b527eff65320ca7e09c2104eb1)" alt="Your Image" width="200" height="200" />
-  </div>
+  ]
 </div>
 
 
