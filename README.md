@@ -13,7 +13,7 @@
       Now, I'm venturing into the exciting worlds of Machine Learning (ML) and Data Structures and Algorithms (DSA), always driven by a thirst for learning and personal growth. 🌱
     </p>
   </div>
-  ]
+  
 </div>
 
 
