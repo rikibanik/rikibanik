@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Riki</h1>
-<h3 align="center">Passionate Learner | Code Enthusiast</h3>
+<h3 align="center">Backend Development | DSA | RUST</h3>
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
