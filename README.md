@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Riki</h1>
-<h3 align="center">Backend Development | DSA | RUST</h3>
-
+<h2 align="center">Backend Developer </h2>
+<h3 align="center">DSA || DBMS  || WEB TECHNOLOGY || AWS</h3>
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <p>
@@ -10,7 +10,7 @@
       I'm on a mission to contribute to the developer community and share the knowledge I've gained so far. My journey began with web development, where I've honed my skills and created exciting projects.
     </p>
     <p>
-      Now, I'm venturing into the exciting worlds of Machine Learning (ML) and Data Structures and Algorithms (DSA), always driven by a thirst for learning and personal growth. 🌱
+      Now, I'm venturing into the exciting worlds of DevOps and Data Structures and Algorithms (DSA), always driven by a thirst for learning and personal growth. 🌱
     </p>
   </div>
   
@@ -35,6 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+
 </p>
 
