@@ -4,13 +4,13 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <p>
-      I'm an IT enthusiast currently pursuing my B.Tech in Information Technology at Ajiv Gandhi Institute of Petroleum Technology, an Institution of National Importance on par with the IITs. 🚀
+      Pursuing my B.Tech in Information Technology at Rajiv Gandhi Institute of Petroleum Technology, an Institution of National Importance.
     </p>
     <p>
-      I'm on a mission to contribute to the developer community and share the knowledge I've gained so far. My journey began with web development, where I've honed my skills and created exciting projects.
+      The journey began with web development, starting from HTML,CSS,JAVASCRIPT then learned NodeJs and Express where I've honed my skills and creating exciting apps. Little familiar to React and well versed in NodeJs, I can develop MERN Stack based Web Application. 
     </p>
     <p>
-      Now, I'm venturing into the exciting worlds of DevOps and Data Structures and Algorithms (DSA), always driven by a thirst for learning and personal growth. 🌱
+     Now, I have started learning DevOps and Data Structures and Algorithms (DSA), with the zeal to quench my thirst for curiosity and expand my knowledge. 🌱
     </p>
   </div>
   
@@ -33,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 
 </p>
