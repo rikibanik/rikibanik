@@ -7,7 +7,7 @@
       Pursuing my B.Tech in Information Technology at Rajiv Gandhi Institute of Petroleum Technology, an Institution of National Importance.
     </p>
     <p>
-      The journey began with web development, starting from HTML,CSS,JAVASCRIPT then learned NodeJs and Express where I've honed my skills and creating exciting apps. Little familiar to React and well versed in NodeJs, I can develop MERN Stack based Web Application. 
+      The journey began with web development, starting from HTML,CSS,JAVASCRIPT then learned NodeJs and Express where I've developed skills and created exciting apps. Little familiar to React and well versed in NodeJs, I can develop MERN Stack based Web Application. 
     </p>
     <p>
      Now, I have started learning DevOps and Data Structures and Algorithms (DSA), with the zeal to quench my thirst for curiosity and expand my knowledge. 🌱
